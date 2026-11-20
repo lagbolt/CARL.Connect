@@ -1,0 +1,4 @@
+PyMARC >= 5.0.0
+requests
+rich
+xmltodict

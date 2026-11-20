@@ -1,0 +1,12 @@
+# check-subjects 0.1.1
+# Input:  new-records.mrc
+# Output: check-subjects-report.txt
+# Loaded 320884 subject terms and 12605 children's terms.
+# ------------------------------------------------------------------------
+Item in00024467908 The wheels on the truck — subject headings not in LoC:
+  =650  \0$aSongs, EnglishUnited States$vJuvenile literature
+Item in903199151 Delta oblivion — subject headings not in LoC:
+  =650  \0$aExtreme sportsJuvenile fiction
+# ------------------------------------------------------------------------
+# 29 records processed, 0 skipped
+# 2 errors found in 2 records

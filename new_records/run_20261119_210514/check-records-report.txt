@@ -1,0 +1,52 @@
+# check-records 0.6.0
+# Input:  C:\Users\lagbo\OneDrive\Documents\mu_code\fcpl\new_records\run_20261119_210514\new-records.mrc
+# Output: C:\Users\lagbo\OneDrive\Documents\mu_code\fcpl\new_records\run_20261119_210514\check-records-report.txt
+# Record Scan Report
+# ========================================================================
+
+Record 3 (ocm09110843): Preserving America's past /prepared by the Special Publicati
+    [nonserious] no 1XX
+    [serious] no 1xx or 7xx
+    [warning] duplicate subject headings
+        =650  \0$aHistoric sites$xConservation and restoration$zUnited States
+        =650  \1$aHistoric sites$xConservation and restoration$zUnited States
+
+Record 11 (in903228005): Moon handbooks.
+    [nonserious] no 1XX
+    [serious] no 245c
+        =245  00$aMoon handbooks.$pUSA state by state : the best things to do in every state for your travel bucket list.
+    [serious] no 1xx or 7xx
+
+Record 13 (on1018019493): The future is female! :Lisa Yaszek, editor.
+    [nonserious] no 1XX
+
+Record 23 (in903238286): Leaping into fall /adapted by Steve Behling ; based on the e
+    [nonserious] no 1XX
+
+Record 30 (in903297664): Ireland.
+    [serious] no 245c
+        =245  10$aIreland.
+
+Record 31 (in903297358): Mexico.
+    [serious] no 245c
+        =245  00$aMexico.
+
+Record 36 (in903280446): Adventures of a lifetime :Moon Travel Guides ; foreword by B
+    [nonserious] no 1XX
+
+Record 50 (in903281527): Something followed us home :edited by Cynthia Pelayo.
+    [nonserious] no 1XX
+
+Record 58 (in903289283): Dream trips of Europe :
+    [nonserious] no 1XX
+    [serious] no 245c
+        =245  00$aDream trips of Europe :$b100 destinations and itineraries to make your bucket list a reality.
+    [serious] no 1xx or 7xx
+
+Record 59 (in903295030): GED test prep premium /the staff of The Princeton Review.
+    [nonserious] no 1XX
+
+
+# ========================================================================
+# 60 records processed, 0 skipped
+# 19 errors found in 13 records

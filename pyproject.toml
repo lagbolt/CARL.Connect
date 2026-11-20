@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fcpl-shared"
+version = "0.2.0"
+requires-python = ">=3.10"
+dependencies = [
+    "pymarc>=5.0.0",
+    "requests",
+    "rich",
+    "xmltodict",
+]
+
+[tool.setuptools]
+packages = ["fcpl_shared"]

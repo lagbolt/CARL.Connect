@@ -1,0 +1,16 @@
+# check-language 0.4.0
+# Input:  ..\new-records.mrc
+# Output: test.txt
+# Language Consistency Report
+# ========================================================================
+
+Record 48 (   84011848): Ronia, the robber's daughter / Astrid Lindgren ; translated by Patricia Crampton
+    [warning] Record indicates a translation, but no 546 language note is present.
+    008 language: eng
+    =041  1\$aeng$hswe
+    =240  10$aRonja rövardotter.$lEnglish
+
+
+# ========================================================================
+# 60 records processed, 0 skipped
+# 1 error found in 1 record

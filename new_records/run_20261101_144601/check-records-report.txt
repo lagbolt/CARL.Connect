@@ -1,0 +1,39 @@
+# check-records 0.6.0
+# Input:  new-records.mrc
+# Output: check-records-report.txt
+# Record Scan Report
+# ========================================================================
+
+Record 2 (in903292199): W is for winter /Greg Paprocki.
+    [nonserious] no 1XX
+    [serious] no 1xx or 7xx
+
+Record 5 (ocn866320589): Clanton family history and lineage lines /by Velda E. Clanto
+    [nonserious] indicator 7 but no $2 in 6xx
+        =600  37$aGilliam
+        =600  37$aGillum
+        =600  37$aShore
+
+Record 14 (on1091193492): Ancestors of Waldo Newcomer /by Page Kenly Roe Barroll.
+    [nonserious] no 1XX
+    [serious] no 1xx or 7xx
+    [nonserious] indicator 7 but no $2 in 6xx
+        =600  37$aNewcumber
+        =600  37$aHuffard
+        =600  37$aKendig
+        =600  37$aScharer
+        =600  37$aSchar
+        =600  37$aScharrer
+        =600  37$aSchuffelberger
+
+Record 22 (on1202848215): Jim Henson's The storyteller.[created by Jim Henson] ; lette
+    [nonserious] no 1XX
+
+Record 27 (ocm18913177): Genealogy of the Hibbard family who are descendants of Rober
+    [serious] no 245c
+        =245  10$aGenealogy of the Hibbard family who are descendants of Robert Hibbard of Salem, Massachusetts.
+
+
+# ========================================================================
+# 29 records processed, 0 skipped
+# 8 errors found in 5 records

@@ -1,0 +1,13 @@
+.venv/
+.vscode/
+__pycache__/
+
+build/
+fcpl_shared.egg-info/
+
+**/secrets.py
+**/*.db
+**/*.mrc
+
+WIP/
+oct26/

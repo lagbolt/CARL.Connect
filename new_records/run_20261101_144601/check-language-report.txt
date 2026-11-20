@@ -1,0 +1,10 @@
+# check-language 0.4.0
+# Input:  new-records.mrc
+# Output: check-language-report.txt
+# Language Consistency Report
+# ========================================================================
+
+
+# ========================================================================
+# 29 records processed, 0 skipped
+# 1 error found in 1 record

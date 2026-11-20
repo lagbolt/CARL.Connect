@@ -1,0 +1,94 @@
+
+C:\Users\lagbo\OneDrive\Documents\mu_code\fcpl\new_records\run_20261101_144601>py check-language.py -i new-records.mrc -o check-language-report.txt -b 
+=============================================
+  check-language 0.4.0
+  Input:  new-records.mrc
+  Output: check-language-report.txt
+=============================================
+29 records processed, 0 skipped
+1 error found in 1 record
+  0 records with serious errors
+  0 records whose worst issue is non-serious
+  1 record with only warnings
+----------------------------------------
+Serious Errors:
+  None
+
+Non-Serious Errors:
+  None
+
+Warnings:
+[   1] Record indicates a translation, but the 546 does not mention it.
+========================================
+Detailed report written to: check-language-report.txt
+
+
+C:\Users\lagbo\OneDrive\Documents\mu_code\fcpl\new_records\run_20261101_144601>py check-names.py -i new-records.mrc -o check-names-report.txt 
+=============================================
+  check-names 0.2.1
+  Input:  new-records.mrc
+  Output: check-names-report.txt
+=============================================
+29 records processed, 0 skipped
+0 possible duplicate names found
+Detailed report written to: check-names-report.txt
+
+
+C:\Users\lagbo\OneDrive\Documents\mu_code\fcpl\new_records\run_20261101_144601>py check-records.py -i new-records.mrc -o check-records-report.txt -b 
+=============================================
+  check-records 0.6.0
+  Input:  new-records.mrc
+  Output: check-records-report.txt
+=============================================
+29 records processed, 0 skipped
+8 errors found in 5 records
+  3 records with serious errors
+  2 records whose worst issue is non-serious
+  0 records with only warnings
+----------------------------------------
+Serious Errors:
+[   2] no 1xx or 7xx
+[   1] no 245c
+
+Non-Serious Errors:
+[   3] no 1XX
+[   2] indicator 7 but no $2 in 6xx
+
+Warnings:
+  None
+========================================
+Detailed report written to: check-records-report.txt
+
+
+C:\Users\lagbo\OneDrive\Documents\mu_code\fcpl\new_records\run_20261101_144601>py check-subjects.py -i new-records.mrc -o check-subjects-report.txt 
+=============================================
+  check-subjects 0.1.1
+  Input:  new-records.mrc
+  Output: check-subjects-report.txt
+=============================================
+Loaded 320884 subject terms and 12605 children's terms.
+ 
+29 records processed, 0 skipped
+2 errors found in 2 records
+=============================================
+Detailed report written to: check-subjects-report.txt
+
+
+C:\Users\lagbo\OneDrive\Documents\mu_code\fcpl\new_records\run_20261101_144601>echo Starting series check ... 
+Starting series check ...
+
+C:\Users\lagbo\OneDrive\Documents\mu_code\fcpl\new_records\run_20261101_144601>py check-series.py -i new-records.mrc -o check-series-report.csv 
+=============================================
+  check-series 0.7.1
+  Input:  new-records.mrc
+  Output: check-series-report.csv
+=============================================
+
+29 records processed, 0 skipped
+Series mismatch in 2 records
+========================================
+Detailed report written to: check-series-report.csv
+
+
+C:\Users\lagbo\OneDrive\Documents\mu_code\fcpl\new_records\run_20261101_144601>echo Done! 
+Done!

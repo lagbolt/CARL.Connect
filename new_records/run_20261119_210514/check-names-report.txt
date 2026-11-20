@@ -1,0 +1,9 @@
+# check-names 0.2.1
+# Input:  C:\Users\lagbo\OneDrive\Documents\mu_code\fcpl\new_records\run_20261119_210514\new-records.mrc
+# Output: C:\Users\lagbo\OneDrive\Documents\mu_code\fcpl\new_records\run_20261119_210514\check-names-report.txt
+# Possible duplicate authors in C:\Users\lagbo\OneDrive\Documents\mu_code\fcpl\new_records\run_20261119_210514\new-records.mrc
+# ------------------------------------------------------------------------
+Mauleon, Daniel#1991- ~ Mauleón, Daniel#1991-
+# ------------------------------------------------------------------------
+# 60 records processed, 0 skipped
+# 1 possible duplicate name found
