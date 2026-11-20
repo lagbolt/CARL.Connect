@@ -1,8 +1,0 @@
-# check-subjects 0.1.1
-# Input:  C:\Users\lagbo\OneDrive\Documents\mu_code\fcpl\new_records\run_20261119_210514\new-records.mrc
-# Output: C:\Users\lagbo\OneDrive\Documents\mu_code\fcpl\new_records\run_20261119_210514\check-subjects-report.txt
-# Loaded 320884 subject terms and 12605 children's terms.
-# ------------------------------------------------------------------------
-# ------------------------------------------------------------------------
-# 60 records processed, 0 skipped
-# 0 errors found in 0 records

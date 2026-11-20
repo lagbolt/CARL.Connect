@@ -1,9 +1,0 @@
-# check-names 0.2.1
-# Input:  new-records.mrc
-# Output: check-names-report.txt
-# Possible duplicate authors in new-records.mrc
-# ------------------------------------------------------------------------
-# No possible duplicate authors found
-# ------------------------------------------------------------------------
-# 29 records processed, 0 skipped
-# 0 possible duplicate names found
